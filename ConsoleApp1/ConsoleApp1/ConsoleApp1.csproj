@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CarritoCompras.cs" />
+    <Compile Include="Producto.cs" />
+    <Compile Include="ProductoArcilla.cs" />
+    <Compile Include="ProductoTela.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
